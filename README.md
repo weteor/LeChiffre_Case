@@ -24,5 +24,5 @@ Be aware the plate used in this case is differently to the 3dp cases provided in
 
 ## side view
 
-![out](https://github.com/weteor/LeChiffre_Case/blob/main/img/cad_side.png)
+![out](https://github.com/weteor/LeChiffre_Case/blob/main/img/cad_sides.png)
 
