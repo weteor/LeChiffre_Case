@@ -1,6 +1,6 @@
 # LeChiffre Case
 
-![r img](https://github.com/weteor/LeChiffre_Case/blob/main/img/r_out.png)
+![r img](https://github.com/weteor/LeChiffre_Case/blob/main/img/case_build.jpg)
 
 A gasket mount stacked acryl case for the [Le Chiffre](https://github.com/tominabox1/Le-Chiffre-Keyboard) keyboard by [tominabox1](https://github.com/tominabox1) or the [Le Chiffre BLE](https://github.com/MangoIV/le_chiff_ble) bluetooth enabled replacement pcb by [MangoIV](https://github.com/MangoIV).
 
